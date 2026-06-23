@@ -1,0 +1,26 @@
+{
+  "name": "trabajo-practico-4-ibars-eluney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eluney8/trabajo-practico-4-ibars-eluney.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/eluney8/trabajo-practico-4-ibars-eluney/issues"
+  },
+  "homepage": "https://github.com/eluney8/trabajo-practico-4-ibars-eluney#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.5",
+    "sequelize": "^6.37.8"
+  }
+}
