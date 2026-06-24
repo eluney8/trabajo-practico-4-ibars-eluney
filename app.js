@@ -1,5 +1,6 @@
 import express from 'express';
 import { startDB } from "./src/config/database.js";
+import { movie } from "./src/models/movie.model.js"; 
 const app = express();
 
 const PORT = 3000;
